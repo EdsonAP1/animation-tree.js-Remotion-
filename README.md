@@ -21,6 +21,12 @@ Mensaje sugerido: «Lee AGENTS.md y ESTADO_PROYECTO.md. Trabajaremos en la produ
 | `realista/` | Ejemplos y documentación de Blender. |
 | `referencias/` | Documentación escrita sobre el estilo visual. Las imágenes de referencia no se publican aquí. |
 
+## Planificar el movimiento y la narración
+
+La guía [Lenguaje visual](docs/LENGUAJE_VISUAL.md) explica cinco técnicas adaptables: revelar texto con máscaras, encadenar acciones, dirigir la cámara al foco, transformar objetos para unir escenas y sincronizar entradas con la voz. Incluye parámetros de planificación, revisión y una tabla del soporte real del código.
+
+Copia la [plantilla de montaje](docs/PLANTILLA_MONTAJE.md) a tu producción local para registrar menciones, tiempos, cámaras, contactos y transiciones. Son herramientas de planificación; el montaje sigue requiriendo programación y revisión por producción.
+
 ## Instalar y probar el robot
 
 Requiere Node.js y Google Chrome o Microsoft Edge. Instala las dependencias desde la raíz del repositorio:

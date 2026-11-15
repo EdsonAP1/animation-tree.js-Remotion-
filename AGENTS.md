@@ -25,6 +25,7 @@ Comunícate en el idioma de la solicitud. Comprueba recursos locales antes de pe
 - Distinguir rasgos del personaje de accesorios circunstanciales, pose, fondo y efectos. Las vistas que no aparecen en una referencia requieren diseño y revisión.
 - Una producción puede usar fondos ilustrados, capas con profundidad aparente, escenarios 3D o combinaciones, según el alcance solicitado y el soporte disponible.
 - Elegir encuadres y transiciones según la narración. No sustituir una referencia por un personaje simplificado sin revisar esa decisión con quien encarga el video.
+- Al planificar un montaje, consultar `docs/LENGUAJE_VISUAL.md`: ofrece revelado de texto con máscaras, acciones encadenadas, cámara dirigida al foco, objetos como puente entre escenas y entradas sincronizadas con la narración. Elegir las técnicas según el contenido; no convertirlas en un estilo obligatorio. Registrar tiempos y decisiones con `docs/PLANTILLA_MONTAJE.md` dentro de la producción local. La guía no implica que estas técnicas estén automatizadas.
 - Cuando el proyecto aporte narración, respetar el archivo y sincronizar el montaje con su duración. El proveedor de voz es libre; no exigir un servicio concreto.
 - Para un diseño nuevo, preparar una prueba breve proporcional al cambio antes de un render largo, reutilizando aprobaciones que sigan siendo aplicables.
 - Describir con precisión el método de animación. Las ilustraciones con deformaciones sobre mallas no equivalen a un modelo 3D completamente articulado.

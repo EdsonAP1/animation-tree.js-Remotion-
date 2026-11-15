@@ -23,6 +23,8 @@ Usar un directorio `proyectos-locales/<nombre>/`, excluido de Git, para conserva
 
 Se puede copiar `PLANTILLA_PERSONAJE.md` a ese directorio. Esta organización documental todavía no conecta automáticamente una producción nueva con el renderizador: los scripts existentes conservan sus rutas de ejemplo.
 
+Para planificar el movimiento, consultar [LENGUAJE_VISUAL.md](LENGUAJE_VISUAL.md) y copiar [PLANTILLA_MONTAJE.md](PLANTILLA_MONTAJE.md) a la misma producción. Registrar allí la sincronización con el audio, las máscaras, los contactos entre acciones, el foco de cámara y las uniones entre escenas. Elegir lo que ayude al relato; no exigir todas las técnicas en cada plano.
+
 ## Continuar desde otro chat
 
 Abrir el repositorio como carpeta de trabajo y solicitar: «Lee AGENTS.md y ESTADO_PROYECTO.md. Trabajaremos en la producción local que te indicaré; usa sus propias referencias y preferencias».

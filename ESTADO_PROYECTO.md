@@ -15,6 +15,7 @@ Desarrollar una base abierta y reutilizable de animación para distintas persona
 - Scripts para revisar fotogramas, exportar H.264/AAC, ajustar voz y comprobar metadatos y decodificación.
 - Lanzadores de Windows y documentación de instalación.
 - Exclusiones de Git para recursos audiovisuales, producciones locales, dependencias y herramientas descargadas.
+- Guía de lenguaje visual y plantilla de montaje para planificar máscaras de texto, acciones encadenadas, objetivos de cámara, transiciones mediante objetos y sincronización con la narración. Son documentación operativa; no añaden automatización al renderizador.
 
 El ejemplo largo se ejecutó y se verificaron 9650 fotogramas a 1920 × 1080 y 30 fps, sin errores de decodificación. Ese resultado comprueba una producción concreta, no la compatibilidad automática con todos los posibles proyectos.
 
@@ -24,6 +25,8 @@ El ejemplo largo se ejecutó y se verificaron 9650 fotogramas a 1920 × 1080 y 3
 - `README.md`: instalación y ejecución de los ejemplos.
 - `docs/PROYECTOS.md`: separación entre motor, ejemplos y producciones locales.
 - `docs/PLANTILLA_PERSONAJE.md`: ficha genérica que se copia a una producción local.
+- `docs/LENGUAJE_VISUAL.md`: técnicas de montaje, revisión y soporte real del código.
+- `docs/PLANTILLA_MONTAJE.md`: planificación local de marcadores, planos y continuidad.
 - `prueba-robot/src/dormir-components.tsx`: personaje ilustrado y objetos comunes del ejemplo largo.
 - `prueba-robot/src/dormir-world.tsx`: escenarios del ejemplo.
 - `prueba-robot/src/dormir-story.ts`: montaje específico del ejemplo.
