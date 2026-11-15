@@ -4,6 +4,12 @@ Código y plantillas para crear videos animados con personajes ilustrados, escen
 
 Este repositorio publica **solo código y documentación**. No incluye videos renderizados, narraciones, imágenes, modelos descargados, herramientas binarias ni dependencias instaladas. Los archivos locales de esos tipos se excluyen con `.gitignore`.
 
+## Continuar desde otro chat
+
+Abre este repositorio como carpeta de trabajo y comienza por [AGENTS.md](AGENTS.md), que recoge las reglas y preferencias, y [ESTADO_PROYECTO.md](ESTADO_PROYECTO.md), que resume lo aprobado, las limitaciones y lo pendiente.
+
+Mensaje sugerido: «Lee AGENTS.md y ESTADO_PROYECTO.md, revisa los archivos relevantes y continúa con mi siguiente petición respetando las decisiones aprobadas». Los recursos locales excluidos de Git deben aportarse por separado al trabajar desde otra computadora.
+
 ## Proyectos incluidos
 
 | Carpeta | Contenido |
