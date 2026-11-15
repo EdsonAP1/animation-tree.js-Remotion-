@@ -11,7 +11,7 @@ Habla en español claro. El usuario decide el tema, el guion, los personajes y e
 - Crear contenido animado para YouTube con Remotion y Three.js, usando personajes ilustrados sobre escenarios 3D.
 - El usuario genera la narración en ElevenLabs y entrega el audio. Conserva la voz y el texto; adapta la imagen a su duración. No generes una voz de reemplazo sin que se solicite.
 - Para el video actual se aprobó formato horizontal 16:9, 1920 × 1080, 30 fps. Otros formatos se eligen según el nuevo encargo.
-- El personaje actual es un stickman turquesa, de cabeza redonda, ojos blancos expresivos, contornos negros gruesos, sombras azules/violetas y luces menta. Las hojas de poses V2 y posteriores fueron aprobadas.
+- El personaje vigente para los próximos videos es el stickman de cara blanca con sudadera roja, capucha levantada, auriculares grandes gris carbón y extremidades negras finas. Leer `docs/personajes/sudadera-roja.md` y comprobar la imagen local antes de generar variantes. El personaje turquesa y sus hojas aprobadas pertenecen al video ya terminado; conservarlos en esa producción.
 - La primera versión vectorial simplificada fue rechazada: no sustituir silenciosamente el personaje de referencia por un diseño más sencillo. Revisar la referencia real antes de crear variantes.
 - Variar poses, encuadres y transiciones con intención narrativa. Se aprobaron primeros planos, contrapicados, picados y movimientos suaves de cámara. Generar por fotogramas no garantiza por sí solo una animación expresiva.
 - Para un personaje o estilo nuevo, preparar un avance corto de unos diez segundos para revisión antes de extenderlo al video completo. Una aprobación existente permite continuar dentro de ese alcance.

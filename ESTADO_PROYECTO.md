@@ -21,6 +21,7 @@ Producir videos animados para YouTube con un personaje consistente, narración a
 
 - `README.md`: instalación, recursos omitidos y origen del proyecto.
 - `AGENTS.md`: reglas de trabajo y preferencias aprobadas.
+- `docs/personajes/sudadera-roja.md`: análisis y rasgos del nuevo personaje elegido para próximos videos.
 - `prueba-robot/src/dormir-story.ts`: montaje y tiempos específicos del video.
 - `prueba-robot/src/dormir-components.tsx`: poses, personajes y objetos comunes.
 - `prueba-robot/src/dormir-world.tsx`: escenarios.
@@ -62,3 +63,9 @@ Prioridad sugerida: configuración de proyectos, sincronización de audio y rend
 ## Exploración editorial en curso
 
 El usuario quiere explorar ideas de contenido en dos ámbitos: finanzas/Bitcoin/inversiones e inteligencia artificial/tecnología. Todavía no se ha elegido un tema nuevo ni autorizado producir otro video. Las afirmaciones sobre ingresos o viralidad de estos nichos requieren evidencia; no asumir como hechos los rankings de una captura.
+
+## Nuevo personaje y consulta sobre fondos
+
+El usuario sustituyó el protagonista de los próximos videos por un stickman de cara blanca, capucha y sudadera rojas, auriculares oscuros y extremidades negras. La referencia está guardada localmente en `recursos-locales/personajes/sudadera-roja/referencia.jpg`, excluida de Git. Su ficha está en `docs/personajes/sudadera-roja.md`. Todavía no se han creado hojas de poses ni un avance del nuevo personaje.
+
+También preguntó por usar imágenes como fondos. Se explicó la posibilidad de fondos ilustrados, capas con profundidad aparente y composición híbrida con 3D. El flujo automático de fondos y las nuevas vistas siguen pendientes; esta consulta no autoriza por sí sola producir un video nuevo ni rehacer el anterior.
