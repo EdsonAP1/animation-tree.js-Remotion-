@@ -1,0 +1,47 @@
+# Dependencias, cachés y salidas locales
+**/node_modules/
+**/.cache/
+**/out/
+**/tools/
+**/work/
+**/__pycache__/
+*.pyc
+*.log
+
+# Recursos audiovisuales: el repositorio contiene solo código y documentación
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.pdf
+*.zip
+*.bin
+*.exe
+*.dll
+
+# Archivos privados de configuración
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Carpetas de recursos se conservan vacías para instalación local
+prueba-robot/public/*
+!prueba-robot/public/.gitkeep
+video-sin-dormir/public/*
+!video-sin-dormir/public/.gitkeep
+Thumbs.db
+.DS_Store

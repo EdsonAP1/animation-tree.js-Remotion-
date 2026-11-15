@@ -1,0 +1,10 @@
+import fs from 'node:fs';import path from 'node:path';
+import {BEATS,SHOTS,DURATION,FPS} from './src/dormir-story.ts';
+const root=path.resolve('../video-sin-dormir');
+const transcript=JSON.parse(fs.readFileSync(path.join(root,'work/narracion.json'),'utf8'));
+const timings=transcript.transcription.map(s=>({start:s.offsets.from/1000,end:s.offsets.to/1000,text:s.text.trim()}));
+fs.writeFileSync(path.join(root,'work/frases-con-tiempos.json'),JSON.stringify(timings,null,2));
+fs.writeFileSync(path.join(root,'work/tomas.json'),JSON.stringify({fps:FPS,durationFrames:DURATION,opening:[{a:0,b:81},{a:81,b:158},{a:158,b:300}],shots:SHOTS},null,2));
+let previous=300;for(const s of SHOTS){if(s.a!==previous||s.b<=s.a)throw Error('Hueco o solapamiento en '+s.a);previous=s.b}if(previous!==DURATION)throw Error('Duración incorrecta');
+fs.writeFileSync(path.join(root,'work/comprobacion-montaje.json'),JSON.stringify({frames:DURATION,durationSeconds:DURATION/FPS,shots:SHOTS.length+3,sceneBeats:BEATS.length,sourceNarrationSeconds:321.645688,gaps:0,overlaps:0},null,2));
+console.log({shots:SHOTS.length+3,beats:BEATS.length,frames:DURATION,duration:DURATION/FPS,segments:timings.length});
