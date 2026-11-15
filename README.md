@@ -1,14 +1,14 @@
 # Animation Three.js + Remotion
 
-Código y plantillas para crear videos animados con personajes ilustrados, escenarios 3D y narración propia. Incluye las adaptaciones realizadas para un video horizontal de YouTube sobre qué pasaría si no necesitaras dormir.
+Base abierta de código y plantillas para que diferentes personas creen videos con sus propios personajes, guiones, fondos, narraciones y formatos. Incluye ejemplos concretos; su configuración no establece valores por defecto para otras producciones. La separación completa entre motor y proyectos sigue en desarrollo.
 
 Este repositorio publica **solo código y documentación**. No incluye videos renderizados, narraciones, imágenes, modelos descargados, herramientas binarias ni dependencias instaladas. Los archivos locales de esos tipos se excluyen con `.gitignore`.
 
 ## Continuar desde otro chat
 
-Abre este repositorio como carpeta de trabajo y comienza por [AGENTS.md](AGENTS.md), que recoge las reglas y preferencias, y [ESTADO_PROYECTO.md](ESTADO_PROYECTO.md), que resume lo aprobado, las limitaciones y lo pendiente.
+Abre este repositorio como carpeta de trabajo y comienza por [AGENTS.md](AGENTS.md), que recoge las reglas generales, y [ESTADO_PROYECTO.md](ESTADO_PROYECTO.md), que resume el estado técnico, las limitaciones y lo pendiente.
 
-Mensaje sugerido: «Lee AGENTS.md y ESTADO_PROYECTO.md, revisa los archivos relevantes y continúa con mi siguiente petición respetando las decisiones aprobadas». Los recursos locales excluidos de Git deben aportarse por separado al trabajar desde otra computadora.
+Mensaje sugerido: «Lee AGENTS.md y ESTADO_PROYECTO.md. Trabajaremos en la producción local que te indicaré; usa sus propias referencias y preferencias». La guía [Proyectos](docs/PROYECTOS.md) explica dónde guardar las decisiones de cada producción. Los recursos locales excluidos de Git deben aportarse por separado al trabajar desde otra computadora.
 
 ## Proyectos incluidos
 

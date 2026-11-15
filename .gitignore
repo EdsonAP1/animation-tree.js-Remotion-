@@ -32,6 +32,8 @@
 *.dll
 
 # Archivos privados de configuración
+/proyectos-locales/
+/recursos-locales/
 .env
 .env.*
 !.env.example
