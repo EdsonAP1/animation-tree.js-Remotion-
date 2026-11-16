@@ -20,6 +20,7 @@ Usar un directorio `proyectos-locales/<nombre>/`, excluido de Git, para conserva
 - Fondos, poses y recursos de la producción.
 - Montaje, revisión visual y decisiones aprobadas.
 - Estado de producción y archivos de salida.
+- Perfil de estilo aprobado y alcance de su reutilización, usando [PLANTILLA_ESTILO.md](PLANTILLA_ESTILO.md). Un canal puede mantener ese perfil en su propio directorio local y referenciarlo desde las producciones que lo seleccionen.
 
 Se puede copiar `PLANTILLA_PERSONAJE.md` a ese directorio. Esta organización documental todavía no conecta automáticamente una producción nueva con el renderizador: los scripts existentes conservan sus rutas de ejemplo.
 
@@ -30,3 +31,5 @@ Para planificar el movimiento, consultar [LENGUAJE_VISUAL.md](LENGUAJE_VISUAL.md
 Abrir el repositorio como carpeta de trabajo y solicitar: «Lee AGENTS.md y ESTADO_PROYECTO.md. Trabajaremos en la producción local que te indicaré; usa sus propias referencias y preferencias».
 
 En otro equipo deberán aportarse los recursos locales. Las reglas públicas describen cómo trabajar; la información de una producción se lee únicamente cuando esa producción sea la seleccionada.
+
+Al continuar una producción o un canal, indicar también su perfil local de estilo aprobado. Conservar el método y las referencias aprobadas al pasar de una prueba al video completo. [ANIMACION_HIBRIDA.md](ANIMACION_HIBRIDA.md) documenta un flujo opcional cuando ese perfil elija interacción con objetos y escenarios 3D.

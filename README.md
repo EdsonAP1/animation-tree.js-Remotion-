@@ -27,6 +27,8 @@ La guía [Lenguaje visual](docs/LENGUAJE_VISUAL.md) explica cinco técnicas adap
 
 Copia la [plantilla de montaje](docs/PLANTILLA_MONTAJE.md) a tu producción local para registrar menciones, tiempos, cámaras, contactos y transiciones. Son herramientas de planificación; el montaje sigue requiriendo programación y revisión por producción.
 
+Para historias con personajes que manipulan objetos y actúan dentro del escenario, consulta [Animación híbrida con acciones](docs/ANIMACION_HIBRIDA.md). Explica cómo combinar partes ilustradas, extremidades articuladas, objetos y cámaras 3D, conservar contactos y validar el video completo. Registra el método aprobado de cada proyecto con la [plantilla de estilo](docs/PLANTILLA_ESTILO.md), sin fijar un personaje o estilo universal. Estas guías no añaden un generador automático al motor.
+
 ## Instalar y probar el robot
 
 Requiere Node.js y Google Chrome o Microsoft Edge. Instala las dependencias desde la raíz del repositorio:

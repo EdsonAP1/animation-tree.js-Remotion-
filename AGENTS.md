@@ -22,6 +22,7 @@ Comunícate en el idioma de la solicitud. Comprueba recursos locales antes de pe
 ## Preparación visual y audio
 
 - Seguir la referencia y las decisiones del proyecto activo. Registrar sus invariantes en una ficha local; `docs/PLANTILLA_PERSONAJE.md` ofrece una estructura genérica.
+- Consultar el perfil de estilo aprobado de la producción o canal seleccionado antes de preparar otro video. `docs/PLANTILLA_ESTILO.md` permite registrar método, acciones, cámaras y ejemplos locales. Conservar ese método en el video completo, salvo que la solicitud actual lo cambie; no trasladarlo como preferencia universal del repositorio.
 - Distinguir rasgos del personaje de accesorios circunstanciales, pose, fondo y efectos. Las vistas que no aparecen en una referencia requieren diseño y revisión.
 - Una producción puede usar fondos ilustrados, capas con profundidad aparente, escenarios 3D o combinaciones, según el alcance solicitado y el soporte disponible.
 - Elegir encuadres y transiciones según la narración. No sustituir una referencia por un personaje simplificado sin revisar esa decisión con quien encarga el video.
@@ -29,6 +30,9 @@ Comunícate en el idioma de la solicitud. Comprueba recursos locales antes de pe
 - Cuando el proyecto aporte narración, respetar el archivo y sincronizar el montaje con su duración. El proveedor de voz es libre; no exigir un servicio concreto.
 - Para un diseño nuevo, preparar una prueba breve proporcional al cambio antes de un render largo, reutilizando aprobaciones que sigan siendo aplicables.
 - Describir con precisión el método de animación. Las ilustraciones con deformaciones sobre mallas no equivalen a un modelo 3D completamente articulado.
+- Si se elige animación híbrida con interacción, consultar `docs/ANIMACION_HIBRIDA.md`: distinguir partes ilustradas, extremidades articuladas, objetos volumétricos y cámara. Revisar contactos, oclusiones, profundidad y continuidad; un fondo estático o un cambio de pose por sí solos no verifican esa interacción.
+- Distinguir una entrega de prueba de una entrega completa. Cuando se solicite el video completo y exista una aprobación aplicable, producir toda la narración; no entregar únicamente el fragmento de prueba ni pedir de nuevo una aprobación ya vigente.
+- Al recibir una nueva versión de audio, medirla y actualizar sus marcadores. Verificar que el montaje completo conserva el principio, el desarrollo y la última frase del archivo vigente.
 
 ## Git y recursos
 

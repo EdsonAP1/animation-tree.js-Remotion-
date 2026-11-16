@@ -11,6 +11,9 @@ Copiar este documento a `proyectos-locales/<nombre>/MONTAJE.md` y completar all�
 - Duración medida del audio:
 - Duración de la composición:
 - Referencias visuales y ficha del personaje:
+- Perfil de estilo y ejemplo aprobado que debe conservarse:
+- Alcance solicitado: prueba / video completo / revisión:
+- Motor y resolución de origen de cada tramo:
 - Estado: planificación / prueba / aprobado / exportado / verificado.
 
 ## Marcadores de narración
@@ -52,5 +55,8 @@ Repetir este bloque para los movimientos que necesiten precisión.
 - [ ] Voz comprensible con los efectos activados.
 - [ ] Capturas y prueba breve revisadas antes del render largo.
 - [ ] Archivo final comprobado: duración, resolución, audio y decodificación.
+- [ ] El video completo conserva el método aprobado y cubre toda la narración vigente, incluida su última frase.
+- [ ] Si se eligió interacción 3D, se revisaron agarres, liberaciones, bisagras, articulaciones y oclusiones en movimiento.
+- [ ] Los efectos permiten comprender la voz y se verificó sincronía al principio, en el medio y al final.
 
 Anotar resultados, archivos de evidencia, limitaciones y cambios aprobados en esta producción local.
